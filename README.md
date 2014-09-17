@@ -1,0 +1,4 @@
+opencory
+========
+
+misc public code
